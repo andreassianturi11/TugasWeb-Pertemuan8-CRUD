@@ -46,6 +46,10 @@ TugasWeb-Pertemuan8-CRUD/
 │   └── flash.php
 ├── css/
 │   └── style.css
+├── docs/
+│   ├── screenshot-dashboard.png
+│   ├── screenshot-tambah.png
+│   └── screenshot-edit.png
 ├── schema.sql
 ├── index.php
 ├── tambah.php
