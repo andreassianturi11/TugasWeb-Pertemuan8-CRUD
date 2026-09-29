@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Logo Sistem Inventaris</title>
+  <desc id="desc">Ikon geometris abstrak berbentuk modul penyimpanan tiga dimensi.</desc>
+  <defs>
+    <linearGradient id="edgeA" x1="13" y1="10" x2="83" y2="86" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#28e4e0"/>
+      <stop offset="0.52" stop-color="#5e6dff"/>
+      <stop offset="1" stop-color="#b14cff"/>
+    </linearGradient>
+    <linearGradient id="edgeB" x1="76" y1="13" x2="17" y2="83" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bd50ff"/>
+      <stop offset="1" stop-color="#28e4e0"/>
+    </linearGradient>
+  </defs>
+  <path d="M48 10 81 28v36L48 84 15 64V28Z" fill="none" stroke="url(#edgeA)" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M15 28 48 47l33-19M48 47v37" fill="none" stroke="url(#edgeB)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M31 19 63 36 48 45 20 29Z" fill="none" stroke="#28e4e0" stroke-width="4" stroke-linejoin="round" opacity=".95"/>
+  <path d="M63 36v18L48 63 48 45Z" fill="none" stroke="#b14cff" stroke-width="4" stroke-linejoin="round" opacity=".95"/>
+</svg>
